@@ -1,0 +1,11 @@
+{
+  "name": "statusufo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sh33dafi/statusufo.git",
+  "author": "Yannick Houbrix <yannick.houbrix@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^2.15.1"
+  }
+}
